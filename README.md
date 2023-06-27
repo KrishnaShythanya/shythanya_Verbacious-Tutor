@@ -25,6 +25,7 @@ Smart Device to support Disabilities using Speech and Sign Language Conversion
 
 # Architecture diagram
 
+![Picture2](https://github.com/KrishnaShythanya/shythanya_Verbacious-Tutor/assets/110541020/bcef3223-642e-4708-943a-75868b639af1)
 
  
 
@@ -53,3 +54,8 @@ Overall, to ensure the success of your project, it's important to continuously e
 # RESULT
 # Hardware snapshot
 ![Picture1](https://github.com/KrishnaShythanya/shythanya_Verbacious-Tutor/assets/110541020/bcfec60e-a224-45ed-acc7-44881b3076a8)
+# Output Snapshot
+# Result 1
+
+
+
