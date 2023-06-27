@@ -56,6 +56,8 @@ Overall, to ensure the success of your project, it's important to continuously e
 ![Picture1](https://github.com/KrishnaShythanya/shythanya_Verbacious-Tutor/assets/110541020/bcfec60e-a224-45ed-acc7-44881b3076a8)
 # Output Snapshot
 # Result 1
+![Picture3](https://github.com/KrishnaShythanya/shythanya_Verbacious-Tutor/assets/110541020/33dccf63-7f59-4e12-abf1-11862ea6ade7)
+# REsult 2
 
 
 
