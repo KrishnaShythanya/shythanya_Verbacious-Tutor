@@ -4,8 +4,7 @@ Smart Device to support Disabilities using Speech and Sign Language Conversion
 # TEAM MEMBERS:
 
 	M.Krishna Shythanya
-	M. Dhivya                                          
-        K. J. Dhaniksha Sree          
+	M. Dhivya                               K. J. Dhaniksha Sree          
 	G. Monisha
 
 # ABSTRACT:
